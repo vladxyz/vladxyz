@@ -2,7 +2,7 @@
 
 Software creator & engineer based in Rotterdam, Netherlands.
 
-I build full-stack applications, enterprise platforms, and AI-powered tools. From idea to production — first I understand the problem, then I build the solution.
+I build full-stack applications, enterprise platforms, and AI-powered tools.
 
 ## What I build with
 
