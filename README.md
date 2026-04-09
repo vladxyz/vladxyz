@@ -44,3 +44,9 @@ Workflow        Plan -> Discuss -> Execute -> Verify -> Ship
 [![Build](https://img.shields.io/badge/build.larshin.com-0a0a0a?style=flat&logo=vercel&logoColor=white)](https://build.larshin.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladnl/)
 [![Email](https://img.shields.io/badge/vlad@larshin.com-0a0a0a?style=flat&logo=gmail&logoColor=white)](mailto:vlad@larshin.com)
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=vladxyz&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=22c55e&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vladxyz&hide_border=true&background=0a0a0a&ring=6366f1&fire=ec4899&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" alt="GitHub Streak" />
