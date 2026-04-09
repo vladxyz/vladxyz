@@ -20,21 +20,21 @@ I build full-stack applications, enterprise platforms, and AI-powered tools. Fro
 **Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat&logo=supabase&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0a0a0a?style=flat&logo=elasticsearch&logoColor=white)
 
 ## How I work
 
-I use **Claude Code** (Opus 4.6) as my primary development environment — not as a suggestion tool, but as an engineering partner. Full project lifecycle: architecture, implementation, debugging, deployment.
+I use **Claude Code** CLI as my primary development environment. I don't like Cursor, Windsurf, and all those tools. Having extensive experience in the commandline, it only makes sense to use the freedom provided by the CLI.
+
+Full project lifecycle: architecture, implementation, debugging, deployment. Usually feature-by-feature.
 
 **My Claude Code stack:**
 
 ```
-Model           Claude Opus 4.6 (1M context)
-Interface       Claude Code CLI + Desktop
-Plugins         Superpowers, GSD, Frontend Design, SEO Suite
-MCP Servers     context7, Vercel, Supabase, Canva
+Model           Claude Opus 4.6 (1M context). Nothing else really.
+Interface       VS Code + Claude Code CLI instances
+Plugins         Superpowers, GSD, SEO Suite, gstack
+MCP Servers     context7, Docker MCP
 Workflow        Plan -> Discuss -> Execute -> Verify -> Ship
 ```
 
