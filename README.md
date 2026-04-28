@@ -2,7 +2,7 @@
 
 Software creator & engineer based in Rotterdam, Netherlands.
 
-I build full-stack applications, enterprise platforms, and AI-powered tools.
+I build full-stack applications, enterprise platforms, and AI-powered tools. I also build complex backends for processing data, with experience in the aerospace domain.
 
 ## What I build with
 
@@ -26,16 +26,15 @@ I build full-stack applications, enterprise platforms, and AI-powered tools.
 
 I use **Claude Code** CLI as my primary development environment. I don't like Cursor, Windsurf, and all those tools. Having extensive experience in the commandline, it only makes sense to use the freedom provided by the CLI.
 
-Full project lifecycle: architecture, implementation, debugging, deployment. Usually feature-by-feature.
+For code completion in rare occasions, I have Copilot Pro.
 
 **My Claude Code stack:**
 
 ```
-Model           Claude Opus 4.6 (1M context). Nothing else really.
+Model           Claude Opus 4.7 (1M context). Nothing else really.
 Interface       VS Code + Claude Code CLI instances
-Plugins         Superpowers, GSD, SEO Suite, gstack
+Plugins         Superpowers, GSD
 MCP Servers     context7, Docker MCP
-Workflow        Plan -> Discuss -> Execute -> Verify -> Ship
 ```
 
 ## Links
