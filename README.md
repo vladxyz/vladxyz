@@ -1,6 +1,6 @@
 # Hey, I'm Vlad
 
-Software creator & engineer based in Rotterdam, Netherlands.
+Aerospace & software engineer based in Rotterdam, Netherlands.
 
 I build full-stack applications, enterprise platforms, and AI-powered tools. I also build complex backends for processing data, with experience in the aerospace domain.
 
