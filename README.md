@@ -9,11 +9,9 @@ I build full-stack applications, enterprise platforms, and AI-powered tools. I a
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-0a0a0a?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=flat&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat&logo=postgresql&logoColor=white)
 
@@ -36,6 +34,9 @@ Interface       VS Code + Claude Code CLI instances
 Plugins         Superpowers, GSD
 MCP Servers     context7, Docker MCP
 ```
+## Keeping an eye on
+
+Rust, Go and Kotlin seem promising for performance in production. I am looking into them.
 
 ## Links
 
