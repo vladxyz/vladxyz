@@ -2,7 +2,8 @@
 
 Aerospace & software engineer based in Rotterdam, Netherlands.
 
-I build full-stack applications, enterprise platforms, and AI-powered tools. I also build complex backends for processing data, with experience in the aerospace, construction and HVAC/Building services domain.
+With my academic background, I enjoy applying maths & physics into computational models that can be used in making the world a better place.
+I also create full-stack solutions.
 
 ## What I build with
 
@@ -20,18 +21,10 @@ I build full-stack applications, enterprise platforms, and AI-powered tools. I a
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat&logo=docker&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0a0a0a?style=flat&logo=elasticsearch&logoColor=white)
 
-**My Claude Code stack:**
-
-```
-Model           Claude Opus 4.7 (1M context). Nothing else really.
-Interface       VS Code + Claude Code CLI instances
-Code Completion GitHub Copilot
-Plugins         Superpowers, GSD, graphify, autoresearch
-MCP Servers     context7, Docker MCP
-```
 ## Keeping an eye on
 
-Rust, Go and Kotlin seem promising for performance in production. I am looking into them.
+Rust, Go and Kotlin seem promising for performance in production for full-stack applications. I am looking into them.
+As far as engineering grade languages, I do not touch legacy code until it's needed.
 
 ## Links
 
