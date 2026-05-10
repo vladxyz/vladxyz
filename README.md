@@ -21,11 +21,6 @@ I also create full-stack solutions.
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat&logo=docker&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0a0a0a?style=flat&logo=elasticsearch&logoColor=white)
 
-## Keeping an eye on
-
-Rust, Go and Kotlin seem promising for performance in production for full-stack applications. I am looking into them.
-As far as engineering grade languages, I do not touch legacy code until it's needed.
-
 ## Links
 
 [![Website](https://img.shields.io/badge/larshin.com-0a0a0a?style=flat&logo=safari&logoColor=white)](https://larshin.com)
